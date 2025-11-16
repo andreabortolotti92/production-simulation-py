@@ -12,7 +12,7 @@ Nel dettaglio veniva richiesto di:
     o	Il codice Python sviluppato per la simulazione;
     o	Un resoconto che descrivesse il processo seguito per lo sviluppo del codice
 
-
+```
 STRUTTURA DEL PROGETTO
 │
 ├── constants.py    # Costanti di configurazione (seed, prodotti, range)
@@ -22,7 +22,7 @@ STRUTTURA DEL PROGETTO
 ├── UI.py           # Funzioni per User Interface
 ├── main.py         # File principale per l’esecuzione del programma
 └── README.md       # Documentazione del progetto
-
+```
 
 LOGICA DI SIMULAZIONE
 Il programma simula giorno per giorno la produzione dei lotti, rispettando:
@@ -49,3 +49,4 @@ L’output include:
 - i parametri casuali generati (quantità, tempi, capacità);
 - il piano giornaliero di produzione (una volta implementato);
 - i riepiloghi statistici dei risultati.
+
